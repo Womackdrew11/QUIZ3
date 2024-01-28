@@ -2,7 +2,7 @@
 
 def main():
 
-    name = input("Enteryour name: ")
+    name = input("Enteryourname: ")
     age = input("Enter your age: ")
 
     print(f"Hello,{name}!You are {age}year sold.")
